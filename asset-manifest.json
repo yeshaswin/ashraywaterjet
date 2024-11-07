@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ashraywaterjet/static/css/main.c01c2c8b.css",
+    "main.js": "/ashraywaterjet/static/js/main.ed52aea3.js",
+    "static/js/453.47238960.chunk.js": "/ashraywaterjet/static/js/453.47238960.chunk.js",
+    "static/media/2ndSlide.jpg": "/ashraywaterjet/static/media/2ndSlide.310b4190b72a742a8032.jpg",
+    "static/media/1stSlide.jpg": "/ashraywaterjet/static/media/1stSlide.39587c04045e8626529a.jpg",
+    "static/media/ashrayLogo.png": "/ashraywaterjet/static/media/ashrayLogo.c89e80261cd4da33b8c1.png",
+    "static/media/cnc_cutting.jpg": "/ashraywaterjet/static/media/cnc_cutting.ea4c9f7baf2c11ec5e67.jpg",
+    "static/media/3rdSlide.jpg": "/ashraywaterjet/static/media/3rdSlide.fec69949695652ea82d5.jpg",
+    "static/media/architectural_industry.jpg": "/ashraywaterjet/static/media/architectural_industry.dfae6ec5ca8bffafe712.jpg",
+    "static/media/Oil_And_Gas_Water_Jet_Cutting_Machines.jpg": "/ashraywaterjet/static/media/Oil_And_Gas_Water_Jet_Cutting_Machines.b4c9945075969f0f6235.jpg",
+    "static/media/cnc-water-jet-cutting-machine-2.jpg": "/ashraywaterjet/static/media/cnc-water-jet-cutting-machine-2.6b510a80b3cc2b9df37b.jpg",
+    "static/media/cnc-water-jet-cutting-machine.jpg": "/ashraywaterjet/static/media/cnc-water-jet-cutting-machine.ef003a18271e7e397aba.jpg",
+    "static/media/aerospace_indistry.jpg": "/ashraywaterjet/static/media/aerospace_indistry.fcd71a87389d244ebf68.jpg",
+    "index.html": "/ashraywaterjet/index.html",
+    "main.c01c2c8b.css.map": "/ashraywaterjet/static/css/main.c01c2c8b.css.map",
+    "main.ed52aea3.js.map": "/ashraywaterjet/static/js/main.ed52aea3.js.map",
+    "453.47238960.chunk.js.map": "/ashraywaterjet/static/js/453.47238960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c01c2c8b.css",
+    "static/js/main.ed52aea3.js"
+  ]
+}
